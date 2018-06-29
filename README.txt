@@ -1,1 +1,1 @@
-This is a simply customer rating build using Bootsrap 
+This is a simply customer rating form build with Bootstrap, HTML5,CSS and Javascript
